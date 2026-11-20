@@ -1,0 +1,6 @@
+id=voip-no-aec
+name=VoIP no AEC
+version=v1.0
+versionCode=1
+author=local
+description=Disables the system AEC effect in audio_effects.xml (bind mount at boot). Workaround for VoIP capture slowed to 2/3 by echo-reference on kiev / LineageOS 23.
